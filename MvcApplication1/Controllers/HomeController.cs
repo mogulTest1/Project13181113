@@ -22,7 +22,7 @@ namespace MvcApplication1.Controllers
             return View();
         }
 
-      /  public ActionResult Contact()
+      //  public ActionResult Contact()
         {
             ViewBag.Message = "Your quintessential contact page.";
 
